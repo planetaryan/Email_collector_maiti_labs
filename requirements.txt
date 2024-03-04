@@ -1,0 +1,8 @@
+flet
+re  
+requests  
+bs4  
+collections 
+urllib.parse 
+tld  
+tld.exceptions
