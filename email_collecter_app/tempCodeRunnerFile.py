@@ -1,1 +1,0 @@
-txtfld.update()
