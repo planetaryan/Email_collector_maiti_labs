@@ -2,4 +2,4 @@ flet
 requests  
 bs4  
 tld  
-tld.exceptions
+
