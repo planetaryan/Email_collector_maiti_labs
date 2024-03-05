@@ -10,7 +10,7 @@ from tld.exceptions import TldDomainNotFound
 def main(page: ft.Page):
 
     def button_click(e):
-        user_url = txtfld.value
+        user_url = str(txtfld.value)
 
 
         if not user_url.startswith("http"):
