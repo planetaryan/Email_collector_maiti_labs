@@ -1,5 +1,4 @@
 flet
-re  
 requests  
 bs4  
 collections 
