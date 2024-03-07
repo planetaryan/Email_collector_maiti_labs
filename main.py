@@ -113,4 +113,4 @@ def main(page: ft.Page):
 
 if __name__ == "__main__":
 
-    ft.app(name=flet_path, target=main, view=None, port=flet_port)
+    ft.app(target=main,assets_dir="assets")
